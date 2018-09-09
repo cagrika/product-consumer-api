@@ -1,0 +1,5 @@
+product-consumer-api:
+  dynamodb:
+    accessKey: 
+    secretKey:
+    endpoint:
